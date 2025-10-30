@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div>
-            <h3 className="text-2xl font-bold text-primary mb-4">FitPro</h3>
+            <h3 className="text-2xl font-bold text-primary mb-4">FitCoach</h3>
             <p className="text-muted-foreground">
               Профессиональный тренер для достижения ваших фитнес-целей
             </p>
@@ -17,7 +17,7 @@ const Footer = () => {
               <li><a href="#services" className="text-muted-foreground hover:text-primary transition-colors">Услуги</a></li>
               <li><a href="#programs" className="text-muted-foreground hover:text-primary transition-colors">Программы</a></li>
               <li><a href="#pricing" className="text-muted-foreground hover:text-primary transition-colors">Прайс</a></li>
-              <li><a href="#blog" className="text-muted-foreground hover:text-primary transition-colors">Блог</a></li>
+              <li><a href="#blog" className="text-muted-foreground hover:text-primary transition-colors">Статьи</a></li>
             </ul>
           </div>
           <div>
@@ -53,7 +53,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-border pt-8 text-center text-muted-foreground">
-          <p>&copy; 2024 FitPro. Все права защищены.</p>
+          <p>&copy; 2024 FitCoach. Все права защищены.</p>
         </div>
       </div>
     </footer>

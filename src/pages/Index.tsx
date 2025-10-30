@@ -1,5 +1,6 @@
-import Header from '@/components/Header';
-import Hero from '@/components/Hero';
+import { useState } from 'react';
+import Navigation from '@/components/Navigation';
+import Hero from '@/components/sections/Hero';
 import Services from '@/components/Services';
 import About from '@/components/About';
 import Programs from '@/components/Programs';
@@ -11,9 +12,11 @@ import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 
 const Index = () => {
+  const [activeSection, setActiveSection] = useState('home');
+
   return (
     <div className="min-h-screen">
-      <Header />
+      <Navigation activeSection={activeSection} setActiveSection={setActiveSection} />
       <Hero />
       <Services />
       <About />

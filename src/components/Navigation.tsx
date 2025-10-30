@@ -36,7 +36,7 @@ const Navigation = ({ activeSection, setActiveSection }: NavigationProps) => {
     { id: 'results', label: 'Результаты' },
     { id: 'testimonials', label: 'Отзывы' },
     { id: 'pricing', label: 'Прайс' },
-    { id: 'blog', label: 'Блог' },
+    { id: 'blog', label: 'Статьи' },
     { id: 'contact', label: 'Контакты' },
   ];
 

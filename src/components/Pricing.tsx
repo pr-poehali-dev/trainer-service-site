@@ -28,7 +28,7 @@ const Pricing = () => {
   return (
     <section id="pricing" className="py-20 px-4 bg-muted/30">
       <div className="container mx-auto">
-        <h2 className="text-4xl font-bold text-center mb-4">ПРАЙС-ЛИСТ</h2>
+        <h2 className="text-4xl font-bold text-center mb-4">Прайс-лист</h2>
         <p className="text-center text-muted-foreground mb-12">Выбери удобный для себя тариф</p>
         
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
