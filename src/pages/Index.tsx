@@ -1,30 +1,29 @@
-import { useState } from 'react';
-import Navigation from '@/components/Navigation';
-import Hero from '@/components/sections/Hero';
-import Services from '@/components/sections/Services';
-import Programs from '@/components/sections/Programs';
-import Results from '@/components/sections/Results';
-import Testimonials from '@/components/sections/Testimonials';
-import Pricing from '@/components/sections/Pricing';
-import About from '@/components/sections/About';
-import Blog from '@/components/sections/Blog';
-import Contact from '@/components/sections/Contact';
+import Header from '@/components/Header';
+import Hero from '@/components/Hero';
+import Services from '@/components/Services';
+import About from '@/components/About';
+import Programs from '@/components/Programs';
+import Results from '@/components/Results';
+import Testimonials from '@/components/Testimonials';
+import Pricing from '@/components/Pricing';
+import Blog from '@/components/Blog';
+import Contact from '@/components/Contact';
+import Footer from '@/components/Footer';
 
 const Index = () => {
-  const [activeSection, setActiveSection] = useState('home');
-
   return (
     <div className="min-h-screen">
-      <Navigation activeSection={activeSection} setActiveSection={setActiveSection} />
+      <Header />
       <Hero />
       <Services />
+      <About />
       <Programs />
       <Results />
       <Testimonials />
       <Pricing />
-      <About />
       <Blog />
       <Contact />
+      <Footer />
     </div>
   );
 };
