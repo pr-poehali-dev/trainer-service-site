@@ -5,7 +5,7 @@ const Blog = () => {
     {
       title: 'Топ-5 продуктов для набора мышечной массы',
       excerpt: 'Узнайте, какие продукты помогут вам быстрее достичь результата в наборе массы',
-      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/98255fc3-ad4e-4b8e-85e9-8b81ccdbcba8.jpg',
+      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/bcae54d2-fa75-4aa6-b4cc-01f8a5cbda9f.jpg',
       category: 'Питание',
       date: '15 октября 2024',
       readTime: '5 мин',
@@ -13,7 +13,7 @@ const Blog = () => {
     {
       title: 'Как правильно восстанавливаться после тренировки',
       excerpt: 'Восстановление — ключ к прогрессу. Разбираем основные правила',
-      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/fde5efdf-d757-41bc-a978-1e01486335fe.jpg',
+      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/2e53c6a5-8bbd-4e78-9394-c6d8580b675f.jpg',
       category: 'Тренировки',
       date: '10 октября 2024',
       readTime: '7 мин',
@@ -21,7 +21,7 @@ const Blog = () => {
     {
       title: 'Кардио: до или после силовой тренировки?',
       excerpt: 'Развеиваем мифы о кардио и рассказываем, когда его лучше выполнять',
-      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/fde5efdf-d757-41bc-a978-1e01486335fe.jpg',
+      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/5658f150-50f3-48ab-bdd3-985fc67b1507.jpg',
       category: 'Тренировки',
       date: '5 октября 2024',
       readTime: '6 мин',

@@ -3,22 +3,22 @@ const Results = () => {
     {
       name: 'Анна, 32 года',
       result: '-18 кг за 3 месяца',
-      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/9d4cc26a-0022-4190-af38-4d6c92644714.jpg',
+      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/5658f150-50f3-48ab-bdd3-985fc67b1507.jpg',
     },
     {
       name: 'Дмитрий, 28 лет',
       result: '+12 кг мышц за 4 месяца',
-      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/9d4cc26a-0022-4190-af38-4d6c92644714.jpg',
+      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/2e53c6a5-8bbd-4e78-9394-c6d8580b675f.jpg',
     },
     {
       name: 'Елена, 45 лет',
       result: '-22 кг за 5 месяцев',
-      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/9d4cc26a-0022-4190-af38-4d6c92644714.jpg',
+      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/5658f150-50f3-48ab-bdd3-985fc67b1507.jpg',
     },
     {
       name: 'Сергей, 35 лет',
       result: '1 место на соревнованиях',
-      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/9d4cc26a-0022-4190-af38-4d6c92644714.jpg',
+      image: 'https://cdn.poehali.dev/projects/2ea79b15-bc4f-41c7-80c3-156cac0fddc9/files/2e53c6a5-8bbd-4e78-9394-c6d8580b675f.jpg',
     },
   ];
 
