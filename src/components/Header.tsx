@@ -13,7 +13,7 @@ const Header = () => {
     { name: 'Результаты', href: '#results' },
     { name: 'Отзывы', href: '#testimonials' },
     { name: 'Прайс', href: '#pricing' },
-    { name: 'Блог', href: '#blog' },
+    { name: 'Статьи', href: '#blog' },
     { name: 'Контакты', href: '#contact' },
   ];
 
